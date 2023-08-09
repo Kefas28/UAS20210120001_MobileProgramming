@@ -1,16 +1,21 @@
+
 # uas_mobileprogramming_tise_20210120001
 
-A new Flutter project.
+Isi dari aplikasi "KEFAS NEWS" :
 
-## Getting Started
+![Form Login](https://github.com/Kefas28/UAS20210120001_MobileProgramming/assets/106581088/f4b5f567-cbf1-4438-ba9a-0c19fd2e4d5f)
 
-This project is a starting point for a Flutter application.
+![Beranda](https://github.com/Kefas28/UAS20210120001_MobileProgramming/assets/106581088/c7976c89-0980-4906-8bd8-46e23580c1ad)
 
-A few resources to get you started if this is your first Flutter project:
+![Isi Berita](https://github.com/Kefas28/UAS20210120001_MobileProgramming/assets/106581088/aacda213-4211-4314-973c-5ee675a8c89b)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Berita](https://github.com/Kefas28/UAS20210120001_MobileProgramming/assets/106581088/37a5a591-c1cb-4dec-829e-7dc44c91daf3)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Isi Berita 2](https://github.com/Kefas28/UAS20210120001_MobileProgramming/assets/106581088/de408538-37ef-4aa7-af68-08d537ae1470)
+
+![Profil](https://github.com/Kefas28/UAS20210120001_MobileProgramming/assets/106581088/6ee33317-0e73-4dd5-ab44-6c4435679293)
+
+
+
+
+
